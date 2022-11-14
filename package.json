@@ -1,0 +1,16 @@
+{
+  "name": "node-stack",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "volta": {
+    "node": "17.9.1"
+  },
+  "dependencies": {
+    "typescript": "^4.8.4"
+  },
+  "devDependencies": {
+    "@tsconfig/node16": "^1.0.3",
+    "@types/node": "^18.11.9"
+  }
+}
